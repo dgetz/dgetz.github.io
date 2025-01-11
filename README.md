@@ -1,2 +1,2 @@
-# dgetz.github.io
-Public Version of QGIS map
+# CabinMap
+Hosts QGIS2WEB map files
